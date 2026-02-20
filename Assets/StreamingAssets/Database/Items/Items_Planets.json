@@ -1,0 +1,1 @@
+[{"ID":"Traffic","Item":{"ItemName":"Traffic","ItemDescription":"Upgrade pair.","Cost":6,"Type":1},"AppearChance":1.0},{"ID":"Rush Hour","Item":{"ItemName":"Rush Hour","ItemDescription":"Upgrade flush.","Cost":6,"Type":1},"AppearChance":1.0},{"ID":"Highway","Item":{"ItemName":"Highway","ItemDescription":"Upgrade straight.","Cost":6,"Type":1},"AppearChance":1.0}]

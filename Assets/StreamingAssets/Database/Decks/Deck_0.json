@@ -1,0 +1,5 @@
+{
+    "DeckName": "Red Deck",
+    "DeckDescription": "Some description",
+    "Cards": "Database/Cards/CardList.json"
+}
